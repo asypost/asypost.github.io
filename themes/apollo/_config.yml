@@ -1,0 +1,26 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: http://www.weibo.com/asypost/
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+archive_generator:
+  per_page: 0
+  yearly: false
+  monthly: false
+  daily: false
+
+# Analytics
+# google-analytics:
+ga: 
+
+# Copyright Infomation
+startyear: 2016
